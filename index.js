@@ -7,22 +7,22 @@ const port = 3000;
 const resume = {
     Personal_Information: [ 
         {
-            Name:"Chenhier Nyle Arsa",
-            Address:"Escario st.kamputhaw cebu city",
-            ContactNo:"09662081906",
-            Email:"chenhiernylearsa18@gmail.com",
-            Birthdate:"August 15 2003",
+            Name:"July Charles E. Casas",
+            Address:"MJ.Cuenco Upper Carreta Cebu City",
+            ContactNo:"09678346576",
+            Email:"charlescasas02@gmail.com",
+            Birthdate:"July 29 2002",
             Gender:"Male",
         }  
     ],
     About_me:[
         {
-            Description: "I'm a skilled front-end developer specializing in HTML, CSS, and JavaScript. With 10 years of experience, I excel at creating user-friendly web interfaces. I'm eager to contribute my expertise to the Company and collaborate with a dynamic team.",
+            Description: "I'm a skilled front-end developer and Web designer specializing in HTML, CSS,JavaScript and figma . With 10 years of experience, I excel at creating user-friendly web interfaces. I'm eager to contribute my expertise to the Company and collaborate with a dynamic team.",
         }
     ],
     Skills:[
         {
-            Language:"HTML,CSS,JavaScript,PHP",
+            Language:"HTML,CSS,JavaScript,",
             Webdesign:"Figma",
         }
     ],
@@ -35,16 +35,16 @@ const resume = {
     ],
     Personal_Reference: [
         { 
-            Name:'John Doe',
-            Contact: '09955656564',
-            Relationship: 'Married',
+            Name:'Johnny Sin',
+            Contact: '09498295693',
+            Relationship: 'Single',
         }
     ],
     Work_Experience: [
         {
-            Company: 'ABC Inc.',
+            Company: 'Techwings',
             Job_Title: 'Front-end Developer',
-            Start_Date:'01/01/2020',
+            Start_Date:'07/20/2020',
         }
     ],
 };
