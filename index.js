@@ -11,7 +11,7 @@ const resume = {
             Address:"MJ.Cuenco Upper Carreta Cebu City",
             ContactNo:"09678346576",
             Email:"charlescasas02@gmail.com",
-            Birthdate:"July 29 2002",
+            Birthdate:"July 29,2002",
             Gender:"Male",
         }  
     ],
