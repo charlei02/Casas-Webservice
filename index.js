@@ -33,6 +33,13 @@ const resume = {
             Year:'2019-2021',
         }
     ],
+    Education: [
+        { 
+            Degree:'TVL-CSS',
+            Institution: 'Mabolo National Highschool',
+            Year:'2015-2015',
+        }
+    ],
     Personal_Reference: [
         { 
             Name:'Johnny Sin',
