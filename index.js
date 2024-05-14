@@ -34,9 +34,9 @@ const resume = {
 
         }, 
         {
-            Degree2:'tvl-css',
-            Institution2: 'Mabolo National Higschool',
-            Year2:'2015-2019',
+            Degree:'tvl-css',
+            Institution: 'Mabolo National Higschool',
+            Year:'2015-2019',
    
         }
     ], 
