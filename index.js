@@ -6,7 +6,7 @@ const port = 3000;
 // routes
 const resume = [
     {
-        section: 'Personal_Information',
+        section: 'PersonalInformation',
         data: [
             {
                 Name: "July Charles E. Casas",
