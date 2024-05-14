@@ -36,7 +36,7 @@ const resume = {
         {
             Degree:'tvl-css',
             Institution: 'Mabolo National Higschool',
-            Year:'2015-2019',
+            Year:'2015-2020',
    
         }
     ], 
